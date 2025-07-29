@@ -1,8 +1,7 @@
 # TolgaTurkmen 2025
-# TolgaTurkmen 2025
-# TolgaTurkmen 2025
-
 # Machine Learning Job Analysis and Salary Prediction System
+![](https://cdn-icons-png.flaticon.com/512/3716/3716795.png)
+
 
 This project analyzes machine learning job postings in the US, predicts salaries, and classifies job levels using NLP and machine learning techniques.
 
@@ -106,6 +105,4 @@ streamlit run src/web/app.py
 
 
 # TolgaTurkmen 2025
-# TolgaTurkmen 2025
-# TolgaTurkmen 2025
-# TolgaTurkmen 2025
+
